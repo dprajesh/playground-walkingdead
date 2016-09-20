@@ -1,2 +1,2 @@
-# playground-capabilities-template
-Template project for using the capabilities API with Qlik Playground
+# playground-walkingdead
+Walking Dead playground demo
